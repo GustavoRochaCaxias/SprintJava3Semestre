@@ -10,7 +10,7 @@ experiência dos pacientes e asseguramos a sustentabilidade do negócio.
  Para rodar a aplicação voce precisara ter instalado no seu computador a IDE Eclipse.
 
 # Imagens Diagramas
-![Diagrama]()
+![Diagrama]("C:\Users\gusta\OneDrive\Imagens\Capturas de tela\Captura de tela 2024-10-05 131059.png")
 
 # Link do Video 
 
