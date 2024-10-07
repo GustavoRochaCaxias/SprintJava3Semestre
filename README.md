@@ -13,6 +13,8 @@ experiência dos pacientes e asseguramos a sustentabilidade do negócio.
 ("![Diagrama](https://github.com/user-attachments/assets/1fda6ab0-9251-42cb-af72-a5f37e952a4b)
 ")
 
+"![Diagrama]("C:\Users\gusta\OneDrive\Imagens\Capturasdetela\Capturadetela2024-10-07163855.png")"
+
 # Link do Video 
 
 # Listagem dos endpoints
